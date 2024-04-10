@@ -1,15 +1,5 @@
 {
-  "domains": [
-    {
-      "address": "bc1phd9qn5kzdzpusn7wxp4a3hckg4jekdu4a97zt9s7eh64s",
-      "domain": "edson.btc",
-      "expiration-date": "22/08/2024"     
-    },
-    {
-      "address": "bc1phd9qn5kzdzpusn7wxp4a3hckg4jekdu4a97zt9s7eh64s",
-      "domain": "renata.btc",
-      "expiration-date": "27/08/2024"     
-    }
+  "contracts": [    
   
   ]
 }
